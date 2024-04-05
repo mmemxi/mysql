@@ -1,0 +1,20 @@
+https://techplay.jp/column/1787
+pip install mysql-connector-python
+でpython側の準備は完了。
+
+MySQL for windowsのダウンロード
+https://usimaru.net/mysql-windows-install/
+https://dev.mysql.com/downloads/installer/
+2024/4/4 バージョン8.0.36をダウンロード
+※環境変数の書き換えも必要
+ポート3306が使用中だったので3316/ X Protocol Port:33160に変更
+
+ユーザー：root
+パスワード:root
+
+コマンドプロンプトからは
+mysql -P 3316 -u root -p
+パスワード:root
+でログイン可能
+
+

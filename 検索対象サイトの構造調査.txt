@@ -1,0 +1,16 @@
+アドレス例：
+https://kensetsu-search.com/db_companies/areas/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E8%B1%8A%E5%B3%B6%E5%8C%BA?page=2
+
+<div class="l-main">の中（１つ目）にある
+<div class="c-panel">が１つずつの検索結果。
+
+c-panelの内容例：
+<div class="c-panel__body">
+<div class="p-db-company-search__item__header"><a href="/db_companies/dcb_26034">タマホーム株式会社(泉佐野営業所)</a><div class="p-db-company-search__item__header__tag"><div class="p-db-company-search__item__header__tag__items"><div class="item u-mr10 blue">営業所</div><div class="item u-mr10 green"><a href="/db_companies/areas/%E6%9D%B1%E4%BA%AC%E9%83%BD">東京都</a></div><div class="item green"><a href="/db_companies/areas/%E6%9D%B1%E4%BA%AC%E9%83%BD/%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82">泉佐野市</a></div></div></div></div>
+<div class="p-db-company-search__item__constr"><a href="/db_companies/categories/%E5%BB%BA%E7%AF%89%E4%B8%80%E5%BC%8F%E5%B7%A5%E4%BA%8B">建築一式工事</a><a href="/db_companies/categories/%E5%A4%A7%E5%B7%A5%E5%B7%A5%E4%BA%8B">大工工事</a><a href="/db_companies/categories/%E5%B1%8B%E6%A0%B9%E5%B7%A5%E4%BA%8B">屋根工事</a><a href="/db_companies/categories/%E3%82%BF%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%B3%E3%82%AC%E5%B7%A5%E4%BA%8B">タイル・レンガ工事</a><a href="/db_companies/categories/%E9%8B%BC%E6%A7%8B%E9%80%A0%E7%89%A9%E5%B7%A5%E4%BA%8B">鋼構造物工事</a><a href="/db_companies/categories/%E5%86%85%E8%A3%85%E4%BB%95%E4%B8%8A%E5%B7%A5%E4%BA%8B">内装仕上工事</a><div class="text">...</div></div>
+<div class="p-db-company-search__item"><div class="p-db-company-search__item__address u-mb18"><div class="p-db-company-search__item__address__title">本社住所</div><div class="p-db-company-search__item__address__content"><p>〒598-0002大阪府泉佐野市中庄１４４９?１</p></div></div><div class="p-db-company-search__item__founded"><div class="p-db-company-search__item__founded__title">設立年</div><div class="p-db-company-search__item__founded__content">1998年</div></div><div class="p-db-company-search__item__permission"><div class="p-db-company-search__item__permission__title">許可番号</div><div class="p-db-company-search__item__permission__content"><p>国土交通大臣許可<br>第019013号</p></div></div><div class="p-db-company-search__item__capital"><div class="p-db-company-search__item__capital__title">資本金</div><div class="p-db-company-search__item__capital__content">43億1014万円</div></div><div class="p-db-company-search__item__members"><div class="p-db-company-search__item__members__title">従業員数</div><div class="p-db-company-search__item__members__content">3348人</div></div><div class="p-db-company-search__item__feature"><div class="p-db-company-search__item__feature__title">会社特徴</div><div class="p-db-company-search__item__feature__content">ＣＭでおなじみのタマホームです。お客様に「良...</div></div></div>
+</div>
+
+①p-db-company-search__item__header
+②p-db-company-search__item__constr
+③p-db-company-search__item
